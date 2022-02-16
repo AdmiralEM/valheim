@@ -15,6 +15,8 @@ The Following Mods are included:
   1. BepInEx
     https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/
     core mod, required for all the others
+  2. No Crafting Station Restriction
+    https://www.nexusmods.com/valheim/mods/295
   2. Crafting Station Extension Radius
     https://www.nexusmods.com/valheim/mods/1693
   3. Infinity Build
@@ -49,5 +51,6 @@ The Following Mods are included:
     7. Equipment and Quick Slots
     https://www.nexusmods.com/valheim/mods/92
     
-  
+    2. Crafting Station Extension Radius
+    https://www.nexusmods.com/valheim/mods/1693
   
