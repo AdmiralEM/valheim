@@ -46,6 +46,10 @@ The Following Mods are included:
   15. No Rain Damage
     https://www.nexusmods.com/valheim/mods/200
   
+  Client-Side Reccomended
+  1. Configuration Manager
+    https://www.nexusmods.com/valheim/mods/740?tab=files
+  
   REMOVED
   
     7. Equipment and Quick Slots
