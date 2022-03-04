@@ -17,8 +17,6 @@ The Following Mods are included:
     core mod, required for all the others
   2. No Crafting Station Restriction
     https://www.nexusmods.com/valheim/mods/295
-  2. Crafting Station Extension Radius
-    https://www.nexusmods.com/valheim/mods/1693
   3. Infinity Build
     https://www.nexusmods.com/valheim/mods/1692
   4. Infinity Tools
