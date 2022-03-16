@@ -22,7 +22,7 @@ The Following Mods are included:
   4. Infinity Tools
     https://www.nexusmods.com/valheim/mods/1719
   5. Crafting with Containers
-    https://valheim.thunderstore.io/package/abearcodes/CraftingWithContainers/
+    https://valheim.thunderstore.io/package/frenchiveruti/Craft_From_Containers_by_aedenthorn/
   6. Simple Recycling
     https://valheim.thunderstore.io/package/abearcodes/SimpleRecycling/
   7. Bigger Items Stack
@@ -55,4 +55,7 @@ The Following Mods are included:
     
     2. Crafting Station Extension Radius
     https://www.nexusmods.com/valheim/mods/1693
+  
+    5. Crafting with Containers
+    https://valheim.thunderstore.io/package/abearcodes/CraftingWithContainers/
   
