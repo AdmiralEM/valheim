@@ -17,32 +17,28 @@ The Following Mods are included:
     core mod, required for all the others
   2. No Crafting Station Restriction
     https://www.nexusmods.com/valheim/mods/295
-  3. Infinity Build
-    https://www.nexusmods.com/valheim/mods/1692
-  4. Infinity Tools
-    https://www.nexusmods.com/valheim/mods/1719
-  5. Crafting with Containers
-    https://valheim.thunderstore.io/package/frenchiveruti/Craft_From_Containers_by_aedenthorn/
-  6. Simple Recycling
-    https://valheim.thunderstore.io/package/abearcodes/SimpleRecycling/
-  7. Bigger Items Stack
+  3. Simple Recycling
+    https://valheim.thunderstore.io/package/remmiz/SimpleRecycling_Fixed/
+  4. Bigger Items Stack
     https://www.nexusmods.com/valheim/mods/9?tab=description
-  8. Passive Forsaken Powers 
-    https://www.nexusmods.com/valheim/mods/390?tab=description
-  9. Skills Give More Carry Weight
+  5. Skills Give More Carry Weight
     https://www.nexusmods.com/valheim/mods/462
-  10. Torches Eternal
+  6. Torches Eternal
     https://www.nexusmods.com/valheim/mods/945
-  11. Extended Player Inventory
+  7. Extended Player Inventory
     https://www.nexusmods.com/valheim/mods/1356?tab=description
-  12. ClockMod 
+  8. ClockMod 
     
-  13. Any Portal
+  9. Any Portal
     https://www.nexusmods.com/valheim/mods/170?tab=description
-  14. Unrestricted Portals
+  10. Jotunn
+    https://www.nexusmods.com/valheim/mods/1138
+  11. Unrestricted Portals
     https://www.nexusmods.com/valheim/mods/61
-  15. No Rain Damage
+  12. No Rain Damage
     https://www.nexusmods.com/valheim/mods/200
+  13. Plant Everything
+    https://valheim.thunderstore.io/package/Advize/PlantEverything/
   
   Client-Side Reccomended
   1. Configuration Manager
@@ -50,12 +46,24 @@ The Following Mods are included:
   
   REMOVED
   
-    7. Equipment and Quick Slots
+    Equipment and Quick Slots
     https://www.nexusmods.com/valheim/mods/92
     
-    2. Crafting Station Extension Radius
+    Crafting Station Extension Radius
     https://www.nexusmods.com/valheim/mods/1693
   
-    5. Crafting with Containers
+    Crafting with Containers
     https://valheim.thunderstore.io/package/abearcodes/CraftingWithContainers/
+    
+    Infinity Build
+    https://www.nexusmods.com/valheim/mods/1692
+    
+    Infinity Tools
+    https://www.nexusmods.com/valheim/mods/1719
+    
+    Crafting with Containers
+    https://valheim.thunderstore.io/package/frenchiveruti/Craft_From_Containers_by_aedenthorn/
+    
+    Passive Forsaken Powers 
+    https://www.nexusmods.com/valheim/mods/390?tab=description
   
